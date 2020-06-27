@@ -1,4 +1,8 @@
-Debug/*
+.DS_Store
+*.dylib
+Unit*/jni/objs/*
+Unit*/Default/*
+*Debug/*
 RemoteSystemsTempFiles/*
 # Compiled class file
 *.class
